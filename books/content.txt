@@ -1,0 +1,48 @@
+ruparelia_nayan_cloud_computing.pdf
+1 Introduction 1
+2 Types of Cloud Computing 25
+3 Cloud Computing: A Paradigm Shift? 53
+4 Price and Value Models 67
+5 Security and Governance 99
+6 Use Case Pattern #1: IaaS and PaaS 127
+7 Use Case Pattern #2: SaaS 157
+8 Use Case Pattern #3: INaaS 169
+9 Use Case Pattern #4: BPaaS 179
+10 Transitioning to the Cloud 195
+11 Future Outlook 219
+12 Afterword: What the Author Thinks 229
+
+bhowmik_sandeep_cloud_computing.pdf
+theory+tests
+
+bdm_cloud_computing_complete_manual.pdf
+WHAT IS CLOUD COMPUTING?
+24 TOP CLOUD STORAGE PROVIDERS
+44 GOOGLE CLOUD – IN FOCUS
+60 MICROSOFT CLOUD – IN FOCUS
+The Definition
+of the Cloud
+What is the cloud? Where
+is it? What can you do with
+it? How does it work?
+Cloud Technologies:
+The Environment
+Discover how cloud technology
+has pushed past previous limits
+and into a brighter future.
+Microsoft’s
+OneDrive
+The cloud-based storage
+service for both business
+and home users.
+8 58 64
+4 www.bdmpublications.com
+Contents
+8 The Definition of the Cloud
+10 History of the Cloud
+12 The Cloud in Numbers
+14 Types of Cloud Services
+16 Cloud Problems
+18 Why Cloud?
+20 Anatomy of the Cloud
+22 Basic Consumer Cloud Services
